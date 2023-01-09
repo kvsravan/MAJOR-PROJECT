@@ -1,2 +1,3 @@
 # MAJOR-PROJECT
-This is my first Rinex Project 
+these are the major projects
+
